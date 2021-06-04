@@ -20,4 +20,4 @@ Atuo no desenvolvimento de novas tecnologias voltadas ao setor de segurança pú
 ### 🌍 "Ser “alguém” ou “o outro” sugere que a existência de alguém pressupõe a existência de um outro; que não é possível se pensar em um indivíduo sem que se pense em outro."🧠
 
 - 📍 De Sergipe morando em Aracaju.
-- 💻 Desenvolvedor Back-End | C# | Asp.Net | Asp.Net Core.
+- 💻 Desenvolvedor Fullstack | C# | Asp.Net | Asp.Net Core.
