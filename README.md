@@ -7,7 +7,7 @@
 <!--<a href="https://vimeo.com/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/vimeo.png"/></a> -->
 <!--<a href="https://www.instagram.com/tavcodeart/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/insta.png"/></a> -->
 
-<img src="https://github.com/Jeffconexion/Jeffconexion/blob/main/bannerLinkdin.jpg">
+<img src="https://github.com/Jeffconexion/Jeffconexion/blob/main/PostGitHub2.jpg">
 
 <br>
 <br>
