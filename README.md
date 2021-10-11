@@ -1,4 +1,4 @@
-<img src="https://github.com/Jeffconexion/Jeffconexion/blob/main/GitHubOficial.jpg">
+<img src="https://github.com/Jeffconexion/Jeffconexion/blob/main/bannerLinkdin.jpg">
  
 <!--<a href="https://thamiavicente.github.io/"><img align="left" src="https://github.com/Jeffconexion/Jeffconexion/blob/main/home.png"/></a> -->
 <a href="https://www.linkedin.com/in/jeffsantosti/"><img align="left" src="https://github.com/Jeffconexion/Jeffconexion/blob/main/linkedin.png"/></a>
@@ -18,5 +18,5 @@ Graduação em Sistemas de Informação pela Universidade Federal de Sergipe e f
 
 ### 🌍 "Ser “alguém” ou “o outro” sugere que a existência de alguém pressupõe a existência de um outro; que não é possível se pensar em um indivíduo sem que se pense em outro."🧠
 
-- 📍 De Sergipe morando em Aracaju.
-- 💻 Desenvolvedor Fullstack | C# | Asp.Net | Asp.Net Core.
+- 📍 Nômade Digital.
+- 💻 Desenvolvedor Desenvolvedor Fullstack | .Net Core | Angular | Azure.
