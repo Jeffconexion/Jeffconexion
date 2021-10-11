@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Jeffconexion/Jeffconexion/blob/main/PostGitHub2.jpg">
 
 <!--<a href="https://thamiavicente.github.io/"><img align="left" src="https://github.com/Jeffconexion/Jeffconexion/blob/main/home.png"/></a> -->
 <a href="https://www.linkedin.com/in/jeffsantosti/"><img align="left" src="https://github.com/Jeffconexion/Jeffconexion/blob/main/linkedin.png"/></a>
@@ -7,7 +7,6 @@
 <!--<a href="https://vimeo.com/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/vimeo.png"/></a> -->
 <!--<a href="https://www.instagram.com/tavcodeart/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/insta.png"/></a> -->
 
-<img src="https://github.com/Jeffconexion/Jeffconexion/blob/main/PostGitHub2.jpg">
 
 <br>
 <br>
