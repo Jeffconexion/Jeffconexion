@@ -14,8 +14,7 @@
 
 Meu nome é Jefferson 😏
 
-Graduado em Sistemas de Informação pela Universidade Federal de Sergipe e técnico em Informática para Internet. 
-Atuo no desenvolvimento de novas tecnologias voltadas ao setor de segurança pública. Além disso, realizo consultorias para pequenas empresas. 
+Graduação em Sistemas de Informação pela Universidade Federal de Sergipe e formação técnica em Informática para Internet. Desenvolvo aplicações Web, executando tarefas no back-end e front-end. Atualmente, sou integrante da equipe de desenvolvedores de um projeto voltado para área da saúde, com abrangência nacional e internacional. 
 
 ### 🌍 "Ser “alguém” ou “o outro” sugere que a existência de alguém pressupõe a existência de um outro; que não é possível se pensar em um indivíduo sem que se pense em outro."🧠
 
