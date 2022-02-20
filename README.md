@@ -12,13 +12,13 @@
 <br>
 <br>
 
-### Olá 👋
+### Hello! 👋
 
-Meu nome é Jefferson 😏
+My name is Jefferson 😏
 
-Graduação em Sistemas de Informação pela Universidade Federal de Sergipe e formação técnica em Informática para Internet. Desenvolvo aplicações Web, executando tarefas no back-end e front-end. Atualmente, sou integrante da equipe de desenvolvedores de um projeto voltado para área da saúde, com abrangência nacional e internacional. 
+Degree in Information Systems from the Federal University of Sergipe and technical training in Internet Information Technology. I develop web applications, performing tasks on the back-end and front-end. Currently, I am a member of the team of developers of a project focused on the logistics area, with national and international scope.
 
-### 🌍 "Ser “alguém” ou “o outro” sugere que a existência de alguém pressupõe a existência de um outro; que não é possível se pensar em um indivíduo sem que se pense em outro."🧠
+### 🌍 "To be "someone" or "the other" suggests that the existence of someone presupposes the existence of another; that it is not possible to think of one individual without thinking of another."🧠
 
-- 📍 Nômade Digital.
-- 💻 Desenvolvedor Desenvolvedor Fullstack | .Net Core | Angular | Azure.
+- 📍 Digital Nomad.
+- 💻 Backend Developer | C# | .Net Core | SQL Server
