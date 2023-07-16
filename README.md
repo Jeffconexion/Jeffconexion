@@ -16,9 +16,7 @@
 
 My name is Jefferson 😏
 
-Degree in Information Systems from the Federal University of Sergipe and technical training in Internet Information Technology. I develop web applications, performing tasks on the back-end and front-end. Currently, I am a member of the team of developers of a project focused on the logistics area, with national and international scope.
-
-### 🌍 "To be "someone" or "the other" suggests that the existence of someone presupposes the existence of another; that it is not possible to think of one individual without thinking of another."🧠
+I am an experienced professional in software development, currently seeking immediate new opportunities. My responsibilities involve proposing technical solutions in Cloud Native environments, mapping technical debts, and updating legacy systems. I have worked with advanced technologies such as .NET, Lambdas, DynamoDB, and API Gateway, and I have experience in agile methodologies. Currently, my main focus is on creating scalable back-end applications, handling user growth and workload. I value unit testing to ensure code quality and reliability, as well as mutation testing to detect possible failures. Integration testing is also essential to ensure proper functioning of system components. My goal is to build robust, tested back-end applications ready to tackle scalability and increasing demand challenges.
 
 - 📍 Digital Nomad.
-- 💻 Backend Developer | C# | .Net Core | SQL Server
+- 💻 DESENVOLVEDOR | .NET | CLOUD | REACT | ANGULAR
